@@ -25,7 +25,7 @@
 > 
 > * 기말 프로젝트 디자인 총괄      
 >  * [시안 과정](https://github.com/DU-KIM/KimDanyu/blob/main/%EC%8B%9C%EC%95%88v0529.001(edit)/%EC%8B%9C%EC%95%88v0529.001(edit).md)    
->  * [최종본](https://github.com/DU-KIM/KimDanyu/edit/main/%EC%9D%98%EA%B3%BC%ED%95%99%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C_design/%EC%9D%98%EA%B3%BC%ED%95%99%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C_design.md)    
+>  * [최종본](https://github.com/DU-KIM/KimDanyu/blob/main/%EC%9D%98%EA%B3%BC%ED%95%99%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C_design/%EC%9D%98%EA%B3%BC%ED%95%99%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B8%B0%EB%A7%90%EB%B0%9C%ED%91%9C_design.md)    
 
 ---
 
